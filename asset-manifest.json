@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Elitmus_puzzle/static/css/main.03313a91.css",
-    "main.js": "/Elitmus_puzzle/static/js/main.a16c71aa.js",
-    "static/js/787.ec704a7a.chunk.js": "/Elitmus_puzzle/static/js/787.ec704a7a.chunk.js",
-    "static/media/Video.mp4": "/Elitmus_puzzle/static/media/Video.da0542bc62b6ea9f7a75.mp4",
-    "static/media/QR.png": "/Elitmus_puzzle/static/media/QR.d373ddb8033eee8c77aa.png",
-    "static/media/Crow Sound.mp3": "/Elitmus_puzzle/static/media/Crow Sound.f0f4bd4e00e962374f86.mp3",
-    "index.html": "/Elitmus_puzzle/index.html",
-    "main.03313a91.css.map": "/Elitmus_puzzle/static/css/main.03313a91.css.map",
-    "main.a16c71aa.js.map": "/Elitmus_puzzle/static/js/main.a16c71aa.js.map",
-    "787.ec704a7a.chunk.js.map": "/Elitmus_puzzle/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/puzzle_netlify/static/css/main.03313a91.css",
+    "main.js": "/puzzle_netlify/static/js/main.bd64086c.js",
+    "static/js/787.ec704a7a.chunk.js": "/puzzle_netlify/static/js/787.ec704a7a.chunk.js",
+    "static/media/Video.mp4": "/puzzle_netlify/static/media/Video.da0542bc62b6ea9f7a75.mp4",
+    "static/media/QR.png": "/puzzle_netlify/static/media/QR.d373ddb8033eee8c77aa.png",
+    "static/media/Crow Sound.mp3": "/puzzle_netlify/static/media/Crow Sound.f0f4bd4e00e962374f86.mp3",
+    "index.html": "/puzzle_netlify/index.html",
+    "main.03313a91.css.map": "/puzzle_netlify/static/css/main.03313a91.css.map",
+    "main.bd64086c.js.map": "/puzzle_netlify/static/js/main.bd64086c.js.map",
+    "787.ec704a7a.chunk.js.map": "/puzzle_netlify/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03313a91.css",
-    "static/js/main.a16c71aa.js"
+    "static/js/main.bd64086c.js"
   ]
 }
